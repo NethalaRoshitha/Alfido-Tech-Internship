@@ -56,7 +56,7 @@ A dynamic web application that fetches and displays data using a public REST API
 - REST API
 
 ### Links
-- **GitHub Repository:** [Add Your GitHub Link Here]
+- **GitHub Repository:** https://github.com/NethalaRoshitha/-UI-Clone
 - **Live Demo:** https://skypulse-ai-weather-bed9.bolt.host/
 
 ---
